@@ -42,4 +42,10 @@ RECIPES = {
         'price': 11,
         'sauce': 'tomato'
     },
+    'my pizza': {
+        'ingredients': {'mozzarella': 4, 'basil': 2, 'onion': 5, 'mushroom': 2, 'gorgonzola' : 2},
+        'price': 13,
+        'sauce': 'tomato'
+    },
+    
 }
